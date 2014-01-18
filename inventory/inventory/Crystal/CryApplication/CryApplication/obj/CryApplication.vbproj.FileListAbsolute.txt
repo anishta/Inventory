@@ -1,0 +1,12 @@
+D:\Crystal\CryApplication\CryApplication\bin\Debug\CryApplication.exe
+D:\Crystal\CryApplication\CryApplication\bin\Debug\CryApplication.pdb
+D:\Crystal\CryApplication\CryApplication\bin\Debug\CryApplication.xml
+D:\Crystal\CryApplication\CryApplication\obj\Debug\ResolveAssemblyReference.cache
+D:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.CrystalReport1.rpt
+D:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.Form1.resources
+D:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.Resources.resources
+D:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.vbproj.GenerateResource.Cache
+D:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.exe
+D:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.xml
+D:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.pdb
+D:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.Form2.resources

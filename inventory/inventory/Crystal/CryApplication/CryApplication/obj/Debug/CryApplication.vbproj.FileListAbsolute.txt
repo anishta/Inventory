@@ -1,0 +1,6 @@
+G:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.exe
+G:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.xml
+G:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.pdb
+I:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.exe
+I:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.xml
+I:\Crystal\CryApplication\CryApplication\obj\Debug\CryApplication.pdb
